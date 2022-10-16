@@ -6,7 +6,7 @@ So, you have probably heard about the Sierpinski Triangle. And if you haven't he
 <img src="sierpinski_evolution.png" width="720" height = "120"/>
 
 It feels so in order, full of patterns. But what if we could create such a figure out of pure randomness? 
-This is called *The Chaos Game* (you can read about it [here](https://en.wikipedia.org/wiki/Chaos_game). The procedure goes as follows: 
+This is called [*The Chaos Game*](https://en.wikipedia.org/wiki/Chaos_game). The procedure goes as follows: 
 
 1. Choose a point within the starting triangle and mark it. 
 2. Randomly choose one of the three corners. 
