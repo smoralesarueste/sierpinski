@@ -3,7 +3,7 @@
 Creating one of the most famous fractals by using randomness.
 So, you have probably heard about the Sierpinski Triangle. And if you haven't heard about it, you probably have encountered it at some point. 
 
-![The Making of the Sierpinski Triangle](https://user-images.githubusercontent.com/48697836/196031902-75f09497-02bb-46fd-9fcc-a245b56c6090.png)
+<img src="sierpinski_evolution.png" width="720" height = "120"/>
 
 It feels so in order, full of patterns. But what if we could create such a figure out of pure randomness? 
 This is called *The Chaos Game* (you read about it [here](https://en.wikipedia.org/wiki/Chaos_game). The procedure goes as follows: 
@@ -17,7 +17,7 @@ This is called *The Chaos Game* (you read about it [here](https://en.wikipedia.o
 That's it. Wait a bit and it will draw itself. No kidding. 
 Here you can check a (very) simple code to create a GIF showing how it just magically apperead, and the resulting animation. 
 
-<img src="sierpinski.gif" width="640" height = "640"/>
+<img src="sierpinski.gif" width="480" height = "480"/>
 
 
 For me, one of these results that only makes sense once you know the answer. So, why does it happen?
