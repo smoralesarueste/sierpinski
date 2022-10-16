@@ -17,7 +17,7 @@ This is called *The Chaos Game* (you read about it [here](https://en.wikipedia.o
 That's it. Wait a bit and it will draw itself. No kidding. 
 Here you can check a (very) simple code to create a GIF showing how it just magically apperead, and the resulting animation. 
 
-<img src="https://user-images.githubusercontent.com/48697836/196032303-cc0682dd-f1b9-4839-9698-7364e5" width="48" height = "48"/>
+<img src="sierpinski.gif" width="48" height = "48"/>
 
 
 For me, one of these results that only makes sense once you know the answer. So, why does it happen?
