@@ -15,10 +15,14 @@ This is called [*The Chaos Game*](https://en.wikipedia.org/wiki/Chaos_game). The
 
 
 That's it. Wait a bit and it will draw itself. No kidding. 
-Here you can check a (very) simple code to create a GIF showing how it just magically apperead, and the resulting animation. 
+I created a (very) simple code to create a GIF showing how it just magically apperead. Below you can see the results with 4 different speeds. 
 
-<img src="sierpinski.gif" width="480" height = "480"/>
-
+<p float="left">
+  <img src="gifs/sierpinski_vel1.gif" width="180" height = "180"/>
+  <img src="gifs/sierpinski_vel5.gif" width="180" height = "180"/>
+  <img src="gifs/sierpinski_vel20.gif" width="180" height = "180"/>
+  <img src="gifs/sierpinski_vel100.gif" width="180" height = "180"/>
+</p>
 
 For me, one of these results that only makes sense once you know the answer. So, why does it happen?
 Think about it this way: Is it possible for you to draw a point in the big triangle in the middle? Well, yeah, obviosly, after all, at least the first point is *randomly* chosen, what if we just pick that area here? Yeah, then you are going to have a point inside this area. But what about afterwards? It is actually **impossible** to get back in there. And guess what happens when you iterate by going repeteadly halfway to the corners. That area in the middle starts to make it impossible to reach its clones as well, growing the *impossible to draw* area right in the same way as the Sierpinski Triangle is defined. 
